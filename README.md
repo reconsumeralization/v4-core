@@ -1,4 +1,4 @@
-# Uniswap v4 Core
+**# Uniswap v4 Core
 
 [![Lint](https://github.com/Uniswap/v4-core/actions/workflows/lint.yml/badge.svg)](https://github.com/Uniswap/v4-core/actions/workflows/lint.yml)
 [![Tests](https://github.com/Uniswap/v4-core/actions/workflows/tests-merge.yml/badge.svg)](https://github.com/Uniswap/v4-core/actions/workflows/tests-merge.yml)
@@ -102,3 +102,4 @@ error Unauthorized();
 ## License
 
 Uniswap V4 Core is licensed under the Business Source License 1.1 (`BUSL-1.1`), see [BUSL_LICENSE](https://github.com/Uniswap/v4-core/blob/main/licenses/BUSL_LICENSE), and the MIT License (`MIT`), see [MIT_LICENSE](https://github.com/Uniswap/v4-core/blob/main/licenses/MIT_LICENSE). Each file in Uniswap V4 Core states the applicable license type in the header.
+**
