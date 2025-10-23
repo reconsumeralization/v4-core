@@ -37,7 +37,7 @@ jobs:
 
       - name: Compile
         run: forge build
-      
+
       - name: Install npm
         run: npm install -g npm@latest
 
